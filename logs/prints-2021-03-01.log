@@ -1,0 +1,3 @@
+18:58:57.957 [main] INFO  pages.BasePage - WebElement is visible using locator: <[[ChromeDriver: chrome on WINDOWS (65d3abdfbc8942b12a6efcaa0c10830f)] -> css selector: #loginFrm_password]>
+18:58:58.346 [main] INFO  pages.BasePage - Successfully Sent the following keys: 'Manchester1' to element: <[[ChromeDriver: chrome on WINDOWS (65d3abdfbc8942b12a6efcaa0c10830f)] -> css selector: #loginFrm_password]>
+18:58:59.561 [main] INFO  pages.BasePage - Successfully clicked on the WebElement: <Proxy element for: DefaultElementLocator 'By.xpath: /html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/fieldset[1]/button[1]'>

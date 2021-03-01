@@ -1,0 +1,1 @@
+18:59:01.009 [main] INFO  pages.BasePage - Successfully clicked on the WebElement: <Proxy element for: DefaultElementLocator 'By.xpath: //body/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]'>

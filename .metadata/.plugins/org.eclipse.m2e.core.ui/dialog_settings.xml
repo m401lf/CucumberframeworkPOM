@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\GBruno\Desktop\WebdriverUniversity"/>
+			<item value="C:\Users\GBruno\Desktop\WebdriverUniversity\CucumberFramework"/>
+			<item value="C:\Users\GBruno\Desktop\Test\PimCucumberFramework"/>
+			<item value="c:\users\gianni.bruno\Desktop\BuyAGiftFramework\PimCucumberFramework"/>
+			<item value="c:\users\gianni.bruno\Desktop\PimCucumberFramework"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

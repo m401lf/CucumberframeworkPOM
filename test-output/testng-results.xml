@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="139" started-at="2021-02-22T01:46:36Z" finished-at="2021-02-22T01:46:36Z">
+    <groups>
+      <group name="group2">
+        <method signature="GroupingExample.test3()[pri:0, instance:TestNG.GroupingExample@343f4d3d]" name="test3" class="TestNG.GroupingExample"/>
+        <method signature="GroupingExample.test4()[pri:0, instance:TestNG.GroupingExample@343f4d3d]" name="test4" class="TestNG.GroupingExample"/>
+        <method signature="GroupingExample.test5()[pri:0, instance:TestNG.GroupingExample@343f4d3d]" name="test5" class="TestNG.GroupingExample"/>
+      </group> <!-- group2 -->
+      <group name="group1">
+        <method signature="GroupingExample.test1()[pri:0, instance:TestNG.GroupingExample@343f4d3d]" name="test1" class="TestNG.GroupingExample"/>
+        <method signature="GroupingExample.test2()[pri:0, instance:TestNG.GroupingExample@343f4d3d]" name="test2" class="TestNG.GroupingExample"/>
+        <method signature="GroupingExample.test5()[pri:0, instance:TestNG.GroupingExample@343f4d3d]" name="test5" class="TestNG.GroupingExample"/>
+      </group> <!-- group1 -->
+    </groups>
+    <test name="Default test" duration-ms="139" started-at="2021-02-22T01:46:36Z" finished-at="2021-02-22T01:46:36Z">
+      <class name="TestNG.GroupingExample">
+        <test-method status="PASS" signature="test1()[pri:0, instance:TestNG.GroupingExample@343f4d3d]" name="test1" duration-ms="40" started-at="2021-02-22T09:46:36Z" finished-at="2021-02-22T09:46:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:TestNG.GroupingExample@343f4d3d]" name="test2" duration-ms="5" started-at="2021-02-22T09:46:36Z" finished-at="2021-02-22T09:46:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:TestNG.GroupingExample@343f4d3d]" name="test3" duration-ms="4" started-at="2021-02-22T09:46:36Z" finished-at="2021-02-22T09:46:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:TestNG.GroupingExample@343f4d3d]" name="test4" duration-ms="6" started-at="2021-02-22T09:46:36Z" finished-at="2021-02-22T09:46:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:TestNG.GroupingExample@343f4d3d]" name="test5" duration-ms="4" started-at="2021-02-22T09:46:36Z" finished-at="2021-02-22T09:46:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+      </class> <!-- TestNG.GroupingExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
