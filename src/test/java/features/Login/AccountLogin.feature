@@ -1,3 +1,4 @@
+@AccountLogin
 Feature: Login Page
 
   Scenario Outline: User should be able to login with valid credentials
